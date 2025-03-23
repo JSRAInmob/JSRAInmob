@@ -1,4 +1,10 @@
-- @JSRAInmob
+aliases:
+  s_nakamoto: Satoshi Nakamoto
+  --author=Satoshi Nakamoto: Satoshi Nakamoto
+  gavinandresen: Gavin Andresen
+  jsrainmob: JSRAInmob,
+  
+    - @JSRAInmob
 
 
 <!---
