@@ -1,5 +1,5 @@
 aliases:
-  JSRAInmob,
+  JSRAInmob
   
     - @JSRAInmob
 
